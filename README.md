@@ -1,50 +1,52 @@
-<h1 align="center">Hey there 👋, I'm Nina!</h1>
+# Hi, I’m **Nina**!
+**Data Scientist | Mechatronics Engineering Student | Industrial Automation & Intelligent Systems**
 
-<p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=9623FF&center=true&vCenter=true&multiline=true&width=500&height=70&lines=Data+Scientist+%7C+Python+Dev;Building+Full-Stack+projects+with+Django" alt="Typing SVG" /></a>
+I work at the intersection of **data, software, and industrial systems**, focusing on practical, production-oriented solutions.  
+My background combines **data science, automation, embedded systems, and backend development**.
+
+---
+
+## 💼 Professional Focus
+
+- **Industrial Automation & Control Systems** — PLCs, Node-RED, factory integrations  
+- **Data Science & Analytics** — data processing, analysis, visualization  
+- **Embedded & Engineering Systems** — firmware, robotics, real-world interfaces  
+- **Backend Development** — APIs, databases, scalable services
+
+---
+
+## 🛠️ Core Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,linux,git,django,mongodb&theme=dark" alt="Core technologies" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nscunha" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+<p align="left">
+  <img src="https://cdn.simpleicons.org/nodered/FFFFFF" alt="Node-RED" width="36"/>
+  <img src="https://cdn.simpleicons.org/siemens/FFFFFF" alt="Siemens" width="36"/>
+  <img src="https://cdn.simpleicons.org/arduino/FFFFFF" alt="Arduino" width="36"/>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 📊 GitHub Activity
 
-- 🎓 I'm a **Data Science** student at **UFMS** + **Mechatronics Engineering** student at **UniSenai**
-- 💼 Currently working at **Bosch**
-- 💻 I work mostly with **Python**, **Django**, **MongoDB** and **C++**
-- 🛠 Also a big fan of **automation**, **electronics**, and **embedded systems**
-- 🔍 Currently exploring: **Machine Learning**, **Data Mining**, and **Full-Stack Web Apps**
+### 🔍 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxykoin&layout=compact&hide=javascript,html,css&hide_border=true&theme=radical)
 
 ---
 
-### 🛠️ Tech Stack
+## 📫 Connect
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-282C34?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tkinter-%2300599C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6E40C9?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nscunha/)
+[![GitHub](https://img.shields.io/badge/GitHub-6E40C9?style=flat&logo=github&logoColor=white)](https://github.com/maxykoin)
+[![Twitter](https://img.shields.io/badge/Twitter-6E40C9?style=flat&logo=x&logoColor=white)](https://x.com/maxyvstheworld)
 
 ---
 
-### 📊 GitHub Stats
+## 🧠 Interests
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=maxykoin&show_icons=true&theme=radical&count_private=true" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxykoin&hide=javascript,css,scss,html&theme=radical&count_private=true" height="180px"/>
-</div>
+- Data-driven industrial systems  
+- Automation, tooling, and infrastructure  
+- Applied engineering problems with real-world constraints
+
