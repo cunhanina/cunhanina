@@ -32,7 +32,7 @@ My background combines **data science, automation, embedded systems, and backend
 ## 📊 GitHub Activity
 
 ### 🔍 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxykoin&layout=compact&hide=javascript,html,css&hide_border=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cunhanina&layout=compact&hide=javascript,html,css&hide_border=true&theme=radical)
 
 ---
 
