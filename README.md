@@ -1,7 +1,18 @@
-# Hi there, I'm Nina!
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=BD93F9&center=true&vCenter=true&width=600&lines=Nina+Cunha;Industrial+Software+Developer;Mechatronics+%2B+Data+Science;Building+the+Future+at+Bosch" alt="Typing SVG" />
+</p>
+
 ### **Industrial Software Developer | Mechatronics Student | Professional Problem Solver**
 
 I live at the intersection of **heavy machinery** and **clean code**. Whether it's optimizing a CNC routine or building a predictive model for factory uptime, I’m happiest when my software is moving something in the physical world.
+
+---
+
+### 📊 My GitHub Stats
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=7&theme=dark"/>
+</p>
 
 ---
 
@@ -9,25 +20,20 @@ I live at the intersection of **heavy machinery** and **clean code**. Whether it
 
 - 🔭 **Currently:** Fine-tuning CNC simulations and machining routines at **Bosch**.
 - 🎓 **Studying:** Balancing a Bachelor's in **Mechatronics** with **Data Science**.
-- 🚀 **Building:** Industrial tools that make the factory floor smarter (and my life easier).
-- ⚡ Check out my portfolio, a digital time machine at [cunhadev.vercel.app](https://cunhadev.vercel.app/)!
+- 🚀 **Building:** Industrial IoT tools that bridge the gap between PLC data and the Cloud.
+- ⚡ Check out my [Portfolio](https://cunhadev.vercel.app/)!
 
 ---
 
 ### 🛠️ The Toolbelt
 
+**Languages & Frameworks:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,linux,git,django,mongodb,arduino&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,django,mongodb,mysql,arduino,linux,git&theme=dark" />
 </p>
 
----
-
-### 📈 My Digital Footprint
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cunhanina&layout=compact&hide_border=true&theme=tokyonight&hide=javascript,html,css" height="165em" />
-  <img src="https://github-readme-stats.vercel.app/api?username=cunhanina&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" height="165em" />
-</p>
+**Industrial & Engineering:**
+`PLC (ST/LAD)` | `SolidWorks`
 
 ---
 
