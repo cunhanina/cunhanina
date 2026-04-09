@@ -1,50 +1,38 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=BD93F9&center=true&vCenter=true&width=600&lines=Nina+Cunha;Industrial+Software+Developer;Mechatronics+%2B+Data+Science;Building+the+Future+at+Bosch" alt="Typing SVG" />
-</p>
-
-### **Industrial Software Developer | Mechatronics Student | Professional Problem Solver**
-
-I live at the intersection of **heavy machinery** and **clean code**. Whether it's optimizing a CNC routine or building a predictive model for factory uptime, I’m happiest when my software is moving something in the physical world.
+```python
+class Profile:
+    def __init__(self):
+        self.role     = "Bridging the gap between PLC and the Cloud"
+        self.focus    = ["CNC Optimization", "Computer Vision", "IIoT"]
+        self.roadmap  = "Curitiba, BR -> Stuttgart, DE"
+```
 
 ---
 
-### 📊 My GitHub Stats
+### Trajectory
+- **Current:** CNC Programming and Simulation at Bosch.
+- **Education:** A.S. Data Science ('25) | B. Eng. Mechatronics ('29) | Postgrad Agile PM ('27)
+- **Active:** Architecting the Digital Shopfloor Revolution.
+
+---
+
+### Toolbelt
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cunhanina&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cunhanina&layout=compact&langs_count=7&theme=synthwave"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,django,mongodb,mysql,arduino,linux,git,raspberrypi,bash&theme=dark" />
 </p>
 
 ---
 
-### 💻 What I'm up to...
-
-- 🔭 **Currently:** Fine-tuning CNC simulations and machining routines at **Bosch**.
-- 🎓 **Studying:** Balancing a Bachelor's in **Mechatronics** with **Data Science**.
-- 🚀 **Building:** Industrial IoT tools that bridge the gap between PLC data and the Cloud.
-- ⚡ Check out my [Portfolio](https://cunhadev.vercel.app/)!
-
----
-
-### 🛠️ The Toolbelt
-
-**Languages & Frameworks:**
+### Impact
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,django,mongodb,mysql,arduino,linux,git&theme=dark" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cunhanina&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cunhanina&layout=compact&langs_count=7&theme=synthwave"/>
 </p>
-
-**Industrial & Engineering:**
-`PLC (ST/LAD)` | `SolidWorks`
 
 ---
 
-### 📫 Let's talk shop!
-
+### Connect
 <p align="left">
-<a href="https://linkedin.com/in/nscunha/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://x.com/maxyvstheworld"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="mailto:stayerim@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
+<a href="https://linkedin.com/in/nscunha/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+<a href="https://cunhadev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-BD93F9?style=flat&logo=vercel&logoColor=white" /></a>
+<a href="mailto:stayerim@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
